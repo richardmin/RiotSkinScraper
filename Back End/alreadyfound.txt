@@ -1,7 +1,6 @@
-/en/news/store/sales/champion-and-skin-sale-1118-1121
-/en/news/store/sales/champion-and-skin-sale-1114-1117
-/en/news/store/sales/champion-and-skin-sale-1111-1114
-/en/news/store/sales/champion-and-skin-sale-1107-1110
-/en/news/store/sales/champion-and-skin-sale-1104-1107
-/en/news/store/sales/champion-and-skin-sale-1031-1103
-/en/news/store/sales/champion-and-skin-sale-1028-1031
+/en/news/store/sales/champion-and-skin-sale-0219-0222
+/en/news/store/sales/champion-and-skin-sale-0216-0219
+/en/news/store/sales/champion-and-skin-sale-0212-0215
+/en/news/store/sales/champion-and-skin-sale-0209-0212
+/en/news/store/sales/champion-and-skin-sale-0205-0208
+/en/news/store/sales/champion-and-skin-sale-0202-0205

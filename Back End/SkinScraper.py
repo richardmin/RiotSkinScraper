@@ -70,19 +70,24 @@ class RiotSalesScraper(object):
 		
 #		rawprices = soup.findAll("strike")
 		raw = soup.findAll("h4")
+		#print raw
 		#raw = []
 		skinsales = []
 		
 		skinsales.append(str(raw[1].contents[0]))
 		skinsales.append(str(raw[2].contents[0]))
 		skinsales.append(str(raw[3].contents[0]))
-		
+		#print skinsales
 		champsales = []
 		
-		champsales.append(str(raw[5].find('a').contents[0].strip()))
+		#print "ATTENTION: "
+		#print raw[6]
+		
 		champsales.append(str(raw[6].find('a').contents[0].strip()))
 		champsales.append(str(raw[7].find('a').contents[0].strip()))
+		champsales.append(str(raw[8].find('a').contents[0].strip()))
 
+		#print champsales
 		rawprices = soup.findAll("strike")
 		prices = []
 		for rawprice in rawprices:
